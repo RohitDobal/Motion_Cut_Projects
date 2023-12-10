@@ -1,0 +1,4 @@
+Text-Based Game
+- Develop a simple text-based game using Python.
+- You can choose to create a number guessing game, tic-tac-toe, or any other text-based game of your choice.
+- Example: Create a number guessing game where the computer selects a random number, and the player tries to guess it within a certain number of attempts.
